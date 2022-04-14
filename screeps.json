@@ -1,8 +1,8 @@
 {
-    "email": "<username>",
-    "password": "<password>",
+    "email": "FruityBooty",
+    "password": "dgkpoa021kfh5",
     "protocol": "http",
-    "hostname": "<ip>",
+    "hostname": "81.205.54.179",
     "port": 21025,
     "path": "/",
     "branch": "default"
